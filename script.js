@@ -4,16 +4,16 @@ const checkNumberButton = document.querySelector("#check-number");
 const output = document.querySelector("#output-box");
 
 
-function compareValues(sum,luckyNumber)
-{
-     if(sum%luckyNumber === 0)
-     {
-         outputBox.value = "Your birthday is lucky";
-     }
-     else{
-         outputBox.value= "Your birthday is not lucky";
-     }
-}
+// function compareValues(sum,luckyNumber)
+// {
+//      if(sum%luckyNumber === 0)
+//      {
+//          outputBox.value = "Your birthday is lucky";
+//      }
+//      else{
+//          outputBox.value= "Your birthday is not lucky";
+//      }
+// }
 
 
 
